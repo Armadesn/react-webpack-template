@@ -1,5 +1,4 @@
 {
-  "name": "react-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +6,6 @@
     "build": "./node_modules/.bin/webpack --config ./build/webpack.prod.js",
     "start": "./node_modules/.bin/webpack-dev-server --config ./build/webpack.dev.js"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.4.3",
